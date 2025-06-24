@@ -1,0 +1,390 @@
+{
+  "document_metadata": {
+    "journal_name": "The NEW ENGLAND JOURNAL of MEDICINE",
+    "publication_date": "JULY 7, 2022",
+    "volume": 387,
+    "issue": 1,
+    "article_title": "Trastuzumab Deruxtecan in Previously Treated HER2-Low Advanced Breast Cancer",
+    "authors_list_short": [
+      "S. Modi", "W. Jacot", "T. Yamashita", "J. Sohn", "M. Vidal", "E. Tokunaga", "J. Tsurutani", "N.T. Ueno", "A. Prat", "Y.S. Chae",
+      "K.S. Lee", "N. Niikura", "Y.H. Park", "B. Xu", "X. Wang", "M. Gil-Gil", "W. Li", "J.-Y. Pierga", "S.-A. Im", "H.C.F. Moore", "H.S. Rugo",
+      "R. Yerushalmi", "F. Zagouri", "A. Gombos", "S.-B. Kim", "Q. Liu", "T. Luo", "C. Saura", "P. Schmid", "T. Sun", "D. Gambhire", "L. Yung",
+      "Y. Wang", "J. Singh", "P. Vitazka", "G. Meinhardt", "N. Harbeck", "D.A. Cameron, for the DESTINY-Breast04 Trial Investigators*"
+    ],
+    "contact_author": {
+      "name": "Dr. Modi",
+      "email": "modis@mskcc.org",
+      "institution": "Memorial Sloan Kettering Cancer Center, 1275 York Ave., New York, NY 10065"
+    },
+    "doi": "10.1056/NEJMoa2203690",
+    "publication_info": "This article was published on June 5, 2022, and updated on June 15, 2022, at NEJM.org.",
+    "copyright": "Copyright© 2022 Massachusetts Medical Society.",
+    "page_range": "9-20",
+    "cme_availability": "CME at NEJM.org",
+    "usage_restriction": "Downloaded from nejm.org on June 10, 2025. For personal use only. No other uses without permission. Copyright © 2022 Massachusetts Medical Society. All rights reserved."
+  },
+  "abstract": {
+    "background": "Among breast cancers without human epidermal growth factor receptor 2 (HER2) amplification, overexpression, or both, a large proportion express low levels of HER2 that may be targetable. Currently available HER2-directed therapies have been ineffective in patients with these \"HER2-low\" cancers.",
+    "methods": "We conducted a phase 3 trial involving patients with HER2-low metastatic breast cancer who had received one or two previous lines of chemotherapy. (Low expression of HER2 was defined as a score of 1+ on immunohistochemical [IHC] analysis or as an IHC score of 2+ and negative results on in situ hybridization.) Patients were randomly assigned in a 2:1 ratio to receive trastuzumab deruxtecan or the physician's choice of chemotherapy. The primary end point was progression-free survival in the hormone receptor-positive cohort. The key secondary end points were progression-free survival among all patients and overall survival in the hormone receptor-positive cohort and among all patients.",
+    "results": "Of 557 patients who underwent randomization, 494 (88.7%) had hormone receptor-positive disease and 63 (11.3%) had hormone receptor-negative disease. In the hormone receptor-positive cohort, the median progression-free survival was 10.1 months in the trastuzumab deruxtecan group and 5.4 months in the physician's choice group (hazard ratio for disease progression or death, 0.51; P<0.001), and overall survival was 23.9 months and 17.5 months, respectively (hazard ratio for death, 0.64; P=0.003). Among all patients, the median progression-free survival was 9.9 months in the trastuzumab deruxtecan group and 5.1 months in the physician's choice group (hazard ratio for disease progression or death, 0.50; P<0.001), and overall survival was 23.4 months and 16.8 months, respectively (hazard ratio for death, 0.64; P=0.001). Adverse events of grade 3 or higher occurred in 52.6% of the patients who received trastuzumab deruxtecan and 67.4% of those who received the physician's choice of chemotherapy. Adjudicated, drug-related interstitial lung disease or pneumonitis occurred in 12.1% of the patients who received trastuzumab deruxtecan; 0.8% had grade 5 events.",
+    "conclusions": "In this trial involving patients with HER2-low metastatic breast cancer, trastuzumab deruxtecan resulted in significantly longer progression-free and overall survival than the physician's choice of chemotherapy. (Funded by Daiichi Sankyo and AstraZeneca; DESTINY-Breast04 ClinicalTrials.gov number, NCT03734029.)"
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Approximately 60% of human epidermal growth factor receptor 2 (HER2)–negative metastatic breast cancers express low levels of HER2, defined as a score of 1+ on immunohistochemical (IHC) analysis or as an IHC score of 2+ and negative results on in situ hybridization (ISH). These “HER2-low\" tumors constitute a heterogeneous population including both hormone receptor-positive and hormone receptor-negative breast cancers that vary in prognosis and sensitivity to systemic treatments. Currently available HER2-directed therapies have not improved clinical outcomes in patients with this subtype; therefore, HER2-low breast cancer is currently treated as HER2-negative (HER2-low and HER2-zero [IHC score of 0]), with patients stratified according to hormone-receptor status. Overall, these patients have limited targeted treatment options after progression during primary therapy and most commonly receive single-agent palliative chemotherapy.\nSpecifically, for patients with hormone receptor-positive, HER2-negative metastatic disease, combinations of endocrine therapy and cyclin-dependent kinase 4 and 6 (CDK4/6) inhibitors are effective for a median of approximately 2 years, after which resistance often occurs. Real-world data suggest a progression-free survival as low as 4 months with systemic therapies given after CDK4/6 inhibitors and chemotherapy in the context of metastatic disease. For patients with hormone receptor-negative, HER2-negative metastatic disease, few targeted agents are available, particularly for those without pathogenic BRCA mutations or tumors without programmed death ligand 1 expression.\nTrastuzumab deruxtecan (formerly DS-8201), an antibody-drug conjugate consisting of a humanized anti-HER2 monoclonal antibody linked to a topoisomerase I inhibitor payload through a tetrapeptide-based cleavable linker, has been approved for the treatment of patients with metastatic HER2-positive breast cancer. Unlike many other approved HER2-targeted therapies, trastuzumab deruxtecan can also effectively target tumor cells that express low levels of HER2 and can deliver its potent cytotoxic payload (drug-to-antibody ratio, 8:1) through the bystander effect to neighboring tumor cells heterogeneously expressing HER2. Phase 1 and 2 studies have shown promising results in heavily pretreated patients with HER2-low metastatic breast cancer. In this patient population, the percentage of patients with an overall response has ranged from 37.0 to 37.5%, and the median progression-free survival has ranged from 6.3 to 11.1 months. These findings suggest that the efficacy of trastuzumab deruxtecan exceeds that of available treatments for patients with triple-negative or endocrine-refractory hormone receptor-positive breast cancer. We performed a phase 3 clinical trial (DESTINY-Breast04) to evaluate the efficacy and safety of trastuzumab deruxtecan as compared with the physician's choice of chemotherapy in patients with HER2-low metastatic breast cancer."
+    },
+    {
+      "title": "Methods",
+      "subsections": [
+        {
+          "title": "Trial Design",
+          "content": "We conducted a randomized, two-group, open-label, phase 3 trial involving patients with HER2-low, unresectable or metastatic breast cancer. Trial enrollment was planned for 480 patients with hormone receptor-positive disease (immunoreactive for estrogen or progesterone receptor in ≥1% of tumor-cell nuclei according to local testing) and 60 patients with hormone receptor-negative disease, approximating the proportions of receptor subtype observed in HER2-low breast cancer. Patients were randomly assigned in a 2:1 ratio to receive trastuzumab deruxtecan or the physician's choice of capecitabine, eribulin, gemcitabine, paclitaxel, or nab-paclitaxel. Randomization was stratified according to HER2-low status (IHC 1+ vs. IHC 2+ and ISH-negative), the number of previous lines of chemotherapy for metastatic disease (one vs. two), and hormone-receptor status (positive [with vs. without previous CDK4/6 inhibitor therapy] vs. negative).\nIHC scores for HER2 expression were determined through central testing of adequate archived or recent tumor-biopsy specimens with the use of an investigational IHC assay, the VENTANA HER2/neu (4B5) IUO (investigational use only) Assay system, according to an algorithm adapted from the 2018 American Society of Clinical Oncology-College of American Pathologists testing guidelines (Table S1 in the Supplementary Appendix, available with the full text of this article at NEJM.org). Specimens that yielded central HER2 IHC scores of 2+ were reflexed to ISH testing with the use of the investigational INFORM HER2 Dual ISH DNA Probe Cocktail IUO Assay system.\nEligible patients must have received chemotherapy for metastatic disease or have had disease recurrence during or within 6 months after completing adjuvant chemotherapy; patients with hormone receptor-positive disease must have received at least one line of endocrine therapy. Patients with treated, stable brain metastases were eligible; patients were ineligible if they had a history of noninfectious interstitial lung disease that was treated with glucocorticoids or had suspected interstitial lung disease on imaging at screening.\nTrastuzumab deruxtecan was administered intravenously every 3 weeks at a dose of 5.4 mg per kilogram of body weight, and the physician's choice of chemotherapy was administered in accordance with the local label or the National Comprehensive Cancer Network guidelines. More details are provided in the Supplementary Appendix."
+        },
+        {
+          "title": "Trial Oversight",
+          "content": "Daiichi Sankyo and AstraZeneca funded this trial. The trial was designed by Daiichi Sankyo, approved by the institutional review board at each site, and conducted in adherence with the International Council for Harmonisation Good Clinical Practice guidelines, the Declaration of Helsinki, and local regulations on the conduct of clinical research. An independent data monitoring committee, composed of qualified physicians and scientists, was formed to monitor patient safety in the trial. All the patients provided written informed consent before participation in the trial. The authors vouch for the completeness and accuracy of the data and for the adherence of the trial to the protocol and statistical analysis plan, which are available at NEJM.org. All the authors and contributors signed a standard confidentiality disclosure agreement that restricts disclosure of data outside of the publication process. Editorial and medical writing assistance with an earlier version of the manuscript was financially supported by Daiichi Sankyo."
+        },
+        {
+          "title": "End Points",
+          "content": "Progression-free survival and response to treatment were assessed by means of blinded independent central review. The primary end point was progression-free survival among patients with hormone receptor-positive disease. Key secondary end points were progression-free survival among all patients and overall survival in the hormone receptor-positive cohort and among all patients. Secondary and other end points included investigator-assessed progression-free survival, confirmed objective response, duration of response, and efficacy in the hormone receptor-negative cohort."
+        },
+        {
+          "title": "Safety",
+          "content": "Adverse events were coded and graded according to the Medical Dictionary for Regulatory Activities (version 24.0) and National Cancer Institute Common Terminology Criteria for Adverse Events (version 5.0). Potential cases of interstitial lung disease or pneumonitis were evaluated by an independent adjudication committee. Protocol-specified guidelines on management of interstitial lung disease and pneumonitis are provided in Table S2."
+        },
+        {
+          "title": "Statistical Analysis",
+          "content": "The primary efficacy analysis compared progression-free survival in the hormone receptor-positive cohort between the two trial groups with the use of a stratified log-rank test at a two-sided significance level of 0.05. The final efficacy analysis for progression-free survival was to be performed after approximately 318 patients had disease progression or died in the hormone receptor-positive cohort; this number of events would ensure a power of 90%, under the assumption of a hazard ratio of 0.68 and a two-sided alpha level of 0.05. We planned for group sequential testing using a stratified log-rank test to compare overall survival between the trial groups, provided that superiority with respect to progression-free survival was significant in the hormone receptor-positive cohort and among all patients. The hazard ratios and 95% confidence intervals for progression-free and overall survival were estimated with the use of a stratified Cox regression analysis. Efficacy analyses were performed in the intention-to-treat population. Safety analyses were performed in patients who received at least one dose of a trial drug. Details are provided in the Supplementary Appendix."
+        }
+      ]
+    },
+    {
+      "title": "Results",
+      "subsections": [
+        {
+          "title": "Patients",
+          "content": "From December 27, 2018, through December 31, 2021, a total of 713 patients with HER2-low metastatic breast cancer were screened for potential trial entry (Fig. S1). Of the 373 patients who were randomly assigned to the trastuzumab deruxtecan group and the 184 patients who were assigned to the physician's choice group, 331 (88.7%) and 163 (88.6%), respectively, comprised the hormone receptor-positive cohort. In the physician's choice group, patients received eribulin (51.1%), capecitabine (20.1%), nab-paclitaxel (10.3%), gemcitabine (10.3%), or paclitaxel (8.2%). The demographic and clinical characteristics of the patients at baseline were similar in the two trial groups (Table 1) and were largely representative of the overall population of patients with HER2-negative breast cancer (Table S3). Patients in both groups had a median of three lines of treatment for metastatic disease. The median duration of follow-up for survival was 18.4 months (95% confidence interval [CI], 17.7 to 18.9)."
+        },
+        {
+          "title": "Efficacy",
+          "content": "At the data-cutoff date for the primary efficacy analysis (January 11, 2022), the median progression-free survival in the hormone receptor-positive cohort was 10.1 months (95% CI, 9.5 to 11.5) in the trastuzumab deruxtecan group and 5.4 months (95% CI, 4.4 to 7.1) in the physician's choice group (hazard ratio for disease progression or death, 0.51; 95% CI, 0.40 to 0.64; P<0.001) (Fig. 1A and Table 2). A consistent benefit was observed for trastuzumab deruxtecan across analyzed subgroups (Fig. S2). In the trastuzumab deruxtecan group, the median progression-free survival was 10.3 months among patients with a HER2 IHC score of 1+ and 10.1 months among those with a HER2 IHC score of 2+ and negative results on ISH. Among patients who had received previous treatment with CDK4/6 inhibitors, the median progression-free survival was 10.0 months in the trastuzumab deruxtecan group; without previous CDK4/6 inhibitor treatment, it was 11.7 months.\nAmong all patients, the median progression-free survival was 9.9 months (95% CI, 9.0 to 11.3) in the trastuzumab deruxtecan group and 5.1 months (95% CI, 4.2 to 6.8) in the physician's choice group (hazard ratio for disease progression or death, 0.50; 95% CI, 0.40 to 0.63; P<0.001) (Fig. 1B and Table 2). The median progression-free survival in the hormone receptor-negative cohort was 8.5 months (95% CI, 4.3 to 11.7) in the trastuzumab deruxtecan group and 2.9 months (95% CI, 1.4 to 5.1) in the physician's choice group (hazard ratio, 0.46; 95% CI, 0.24 to 0.89) (Fig. S3A).\nThe median overall survival in the hormone receptor-positive cohort was 23.9 months (95% CI, 20.8 to 24.8) in the trastuzumab deruxtecan group and 17.5 months (95% CI, 15.2 to 22.4) in the physician's choice group (hazard ratio for death, 0.64; 95% CI, 0.48 to 0.86; P=0.003) (Fig. 1C). Among all patients, the median overall survival was 23.4 months (95% CI, 20.0 to 24.8) in the trastuzumab deruxtecan group and 16.8 months (95% CI, 14.5 to 20.0) in the physician's choice group (hazard ratio, 0.64; 95% CI, 0.49 to 0.84; P=0.001) (Fig. 1D). The P values crossed the interim stopping boundary of 0.0075 in both cohorts. The median overall survival in the hormone receptor-negative cohort was 18.2 months (95% CI, 13.6 to not evaluable) in the trastuzumab deruxtecan group and 8.3 months (95% CI, 5.6 to 20.6) in the physician's choice group (hazard ratio, 0.48; 95% CI, 0.24 to 0.95) (Fig. S3B).\nThe percentage of patients with a confirmed objective response in the hormone receptor-positive cohort was 52.6% (95% CI, 47.0 to 58.0) in the trastuzumab deruxtecan group and 16.3% (95% CI, 11.0 to 22.8) in the physician's choice group (Fig. S4 and Table 2). A total of 12 patients (3.6%) in the trastuzumab deruxtecan group and 1 patient (0.6%) in the physician's choice group had a complete response; 26 patients (7.8%) and 35 patients (21.1%) in the respective groups had progressive disease as the best overall response. The median duration of response was 10.7 months in the trastuzumab deruxtecan group and 6.8 months in the physician's choice group.\nThe percentage of patients with a confirmed objective response among all patients was 52.3% (95% CI, 47.1 to 57.4) in the trastuzumab deruxtecan group and 16.3% (95% CI, 11.3 to 22.5) in the physician's choice group (Fig. S4 and Table 2). The corresponding percentages in the hormone receptor-negative cohort were 50.0% (95% CI, 33.8 to 66.2) and 16.7% (95% CI, 3.6 to 41.4)."
+        },
+        {
+          "title": "Safety",
+          "content": "The safety analysis set included 371 patients in the trastuzumab deruxtecan group and 172 patients in the physician's choice group. The median duration of treatment was 8.2 months (range, 0.2 to 33.3) and 3.5 months (range, 0.3 to 17.6) in the respective groups. A total of 99.5% of the patients in the trastuzumab deruxtecan group and 98.3% of those in the physician's choice group had at least one adverse event that emerged or worsened after initiation of a trial drug until 47 days after the last dose of the trial drug (Table S4); exposure-adjusted incidence rates were 1.30 per patient-year and 2.66 per patient-year, respectively (Table S5). The incidence of serious adverse events was 27.8% in the trastuzumab deruxtecan group and 25.0% in the physician's choice group, and the incidence of adverse events of grade 3 or higher was 52.6% and 67.4%, respectively. The incidence of adverse events associated with discontinuation of treatment was 16.2% in the trastuzumab deruxtecan group and 8.1% in the physician's choice group, and the incidence of adverse events associated with dose reductions was 22.6% and 38.4%, respectively.\nA total of 14 patients (3.8%) in the trastuzumab deruxtecan group and 5 patients (2.9%) in the physician's choice group had adverse events that were associated with death. Drug-related deaths in the trastuzumab deruxtecan group were due to pneumonitis (in 2 patients [0.5%]) and ischemic colitis, disseminated intravascular coagulation, dyspnea, febrile neutropenia, and sepsis (in 1 patient [0.3%] each); there were no drug-related deaths in the physician's choice group.\nIn the trastuzumab deruxtecan group, the most common drug-related adverse events of any grade included nausea (in 73.0% of the patients), fatigue (in 47.7%), and alopecia (in 37.7%), all of which were more frequent than in the physician's choice group (in 23.8%, 42.4%, and 32.6%, respectively) (Table 3). In the trastuzumab deruxtecan group, the most common adverse events of grade 3 or higher were neutropenia (in 13.7% of the patients), anemia (in 8.1%), and fatigue (in 7.5%); the corresponding percentages in the physician's choice group were 40.7%, 4.7%, and 4.7%.\nDrug-related interstitial lung disease or pneumonitis as adjudicated by an independent committee occurred in 45 patients (12.1%) who received trastuzumab deruxtecan, including 13 (3.5%) with a grade 1 event, 24 (6.5%) with a grade 2 event, 5 (1.3%) with a grade 3 event, and 3 (0.8%) with a grade 5 event. Of the grade 5 events, 1 event was an investigator-assessed grade 3 event in a patient who died due to disease progression (>47 days after the last dose of trastuzumab deruxtecan) and was adjudicated by the independent committee as being a grade 5 event. Interstitial lung disease or pneumonitis occurred in 1 patient (0.6%) who received the physician's choice of chemotherapy; this patient, who received eribulin, had a grade 1 event. In the trastuzumab deruxtecan group, the median time to onset in patients with interstitial lung disease or pneumonitis was 129 days (range, 26 to 710).\nIn the trastuzumab deruxtecan group, left ventricular dysfunction was reported in 17 patients (4.6%) (decreased ejection fraction of grade 1 in 1 patient, of grade 2 in 14 patients, and of grade 3 in 1 patient and cardiac failure of grade 2 in 1 patient and of grade 3 in 1 patient). One patient initially had a decreased ejection fraction, then later had cardiac failure. On the basis of laboratory values of the left ventricular ejection fraction, grade 2 events (10 to 19% decrease from baseline) were observed in 44 of 371 patients (11.9%) in the trastuzumab deruxtecan group and in 10 of 172 patients (5.8%) in the physician's choice group. Grade 3 events (>20% decrease from baseline) were observed in 5 patients (1.5%) in the trastuzumab deruxtecan group and no patients in the physician's choice group."
+        }
+      ]
+    },
+    {
+      "title": "Discussion",
+      "content": "In this trial, we found that targeting low levels of HER2 with trastuzumab deruxtecan was a superior therapeutic approach to untargeted chemotherapy in patients with HER2-low metastatic breast cancer. The risk of disease progression or death was approximately 50% lower and the risk of death was 36% lower with trastuzumab deruxtecan than with the physician's choice of chemotherapy, regardless of hormone-receptor status.\nHistorically, a binary categorization of HER2 status (positive vs. negative) defined the prognosis and treatment of patients with breast cancer on the basis of the activity of trastuzumab. Although HER2-targeted therapies have significantly improved outcomes for patients with HER2-positive breast cancer (defined by an IHC score of 3+ or by an IHC score of 2+ and positive results on ISH), benefits have not yet translated to patients with HER2 expression below this threshold. Although HER2 overexpression may be necessary for the efficacy of several anti-HER2 therapies, it may not be required for new antibody-drug conjugates. By virtue of its enzyme-cleavable antibody-drug linker, high drug-to-antibody ratio, and membrane-permeable payload, trastuzumab deruxtecan has shown evidence of antitumor activity in cancers across a full range of HER2 expression. In the DESTINY-Breast04 trial, trastuzumab deruxtecan showed superior activity over standard chemotherapy options in patients with HER2-low advanced breast cancer, which highlights the clinical relevance of the HER2-low patient population and supports a need to redefine subgroups within HER2-negative breast cancers.\nBefore this trial, few clinical trials were conducted specifically in patients with HER2-low metastatic breast cancer as defined here. Beyond recent trials of new antibody-drug conjugates, retrospective studies have failed to conclusively support defining HER2-low breast cancer as a prognostically or biologically distinct entity. However, the HER2-low population includes both hormone receptor-positive and hormone receptor-negative subgroups of patients, and trials in these populations can serve as a comparison for this new subgroup.\nAmong patients with metastatic hormone receptor-positive, HER2-negative breast cancer, real-world data show short progression-free survival after CDK4/6 inhibitor therapy, when serial single-agent chemotherapy is the mainstay of treatment for endocrine-refractory disease. Other studies of chemotherapy have shown modest benefits. In our trial, patients in the hormone receptor-positive cohort who received trastuzumab deruxtecan had significantly longer progression-free and overall survival than those who received the physician's choice of chemotherapy. Patients with previous CDK4/6 inhibitor treatment had a progression-free survival benefit similar to that in patients without previous CDK4/6 inhibitor treatment.\nFor patients with refractory hormone receptor-negative, HER2-negative (triple-negative) disease, sacituzumab govitecan was recently approved on the basis of the results of the ASCENT trial, which showed progression-free and overall survival benefits for sacituzumab govitecan over the physician's choice of chemotherapy. Although the hormone receptor-negative cohort was small in the DESTINY-Breast04 trial, the proportion of patients with hormone receptor-negative disease was representative of the prevalence of such disease within the HER2-low population. Data are lacking to compare sacituzumab govitecan with trastuzumab deruxtecan in patients with breast cancer, but this trial suggests that trastuzumab deruxtecan offers another unique targeted therapy option for this otherwise poor-prognosis group. Moreover, given a similar mechanism of action, additional trials are needed to understand the appropriate use of these agents in this patient population.\nThe safety profile of trastuzumab deruxtecan in this trial was similar to the established safety profile in patients with HER2-positive metastatic breast cancer. The incidence of adverse events was similar in the two trial groups. The most common adverse event of grade 3 or higher was neutropenia in both trial groups, but incidences of febrile neutropenia were low. Most cases of adjudicated drug-related interstitial lung disease or pneumonitis in this trial were mild or moderate, and the overall incidence was generally consistent with that in previous studies.\nInterstitial lung disease or pneumonitis remains an important risk associated with trastuzumab deruxtecan. This trial followed current guidelines for surveillance and management, including proactive monitoring of symptoms and imaging to identify potential cases of interstitial lung disease or pneumonitis, active management with prompt dose interruption, and early institution of glucocorticoid treatment as recommended to manage the risk and minimize serious outcomes. Awareness efforts and research on risk factors for interstitial lung disease or pneumonitis are ongoing.\nA key consideration in the DESTINY-Breast04 trial was the use of conventional HER2 IHC testing (and HER2 ISH testing when applicable) to identify cancers with HER2-low status. Although the accuracy of HER2-low scoring has been questioned, it is notable that the progression-free survival benefit was observed in patients with IHC 1+ and IHC 2+, ISH-negative disease. In this trial, the VENTANA HER2/neu (4B5) IUO Assay system (with ISH testing when applicable) was used to identify patients with HER2-low status, which suggests that a conventional IHC test can accurately identify patients who may benefit from trastuzumab deruxtecan. The data from this trial will also be used to update labeling of the assay to include a predictive claim for patients with HER2-low breast cancer. However, given reported limitations, alternative quantitative methods to better select patients for this new therapy may be warranted, especially as the minimum HER2-expression threshold required for trastuzumab deruxtecan activity is also currently being determined in ongoing studies (ClinicalTrials.gov numbers, NCT04494425 and NCT04132960). These results could have implications for future selection of patients for trastuzumab deruxtecan treatment.\nThis trial showed significantly longer progression-free survival and overall survival with trastuzumab deruxtecan than with the physician's choice of chemotherapy among patients with HER2-low metastatic breast cancer, regardless of hormone-receptor status. These results have the potential to improve the treatment outcome for more than half of patients historically categorized as having HER2-negative breast cancer."
+    },
+    {
+      "title": "Funding and Disclosures",
+      "content": "Supported by Daiichi Sankyo and AstraZeneca.\nDisclosure forms provided by the authors are available with the full text of this article at NEJM.org.\nA data sharing statement provided by the authors is available with the full text of this article at NEJM.org."
+    },
+    {
+      "title": "Acknowledgements",
+      "content": "We thank the patients who participated in this trial, as well as their families and caregivers; the staff and investigators at all the trial sites and the members of the independent data monitoring committee (Lori Goldstein, M.D., Sibylle Loibl, M.D., Elisabeth DeVries, M.D., Ph.D., and Scott Shields Emerson, M.D., Ph.D.); Charles A. Powell, M.D., Ross Camidge, M.D., Ph.D., Akihiko Gemma, M.D., Ph.D., and other members of the interstitial lung disease adjudication committee; Xuemin Liu, Ph.D., Judith Pugh, M.D., Melissa K. Manoogian, Ph.D., Lauren B. Murata, Ph.D., and the HER2-low project team at Roche Tissue Diagnostics, for their fruitful collaboration in assay development, clinical trial implementation, and technical review of an earlier version of the manuscript; Sarat Chandarlapaty, M.D., Ph.D., and Joshua Drago, M.D., for their critical input into and review of an earlier version of the manuscript; and Marianna B. Johnson, Ph.D., Soniya A. Patel, Ph.D., Greg Town, B.Sc., and Alya R. Raphael, Ph.D., of ApotheCom, for assistance in medical writing and editorial support with an earlier version of the manuscript."
+    }
+  ],
+  "tables": [
+    {
+      "id": "Table 1",
+      "caption": "Demographic and Clinical Characteristics of the Hormone Receptor-Positive Cohort and All Patients at Baseline.*",
+      "columns": [
+        "Characteristic",
+        "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)",
+        "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)",
+        "Trastuzumab Deruxtecan (All Patients, N=373)",
+        "Physician's Choice of Chemotherapy (All Patients, N=184)"
+      ],
+      "rows": [
+        {"Characteristic": "Median age (range) — yr", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "56.8 (31.5–80.2)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "55.7 (28.4–80.0)", "Trastuzumab Deruxtecan (All Patients, N=373)": "57.5 (31.5–80.2)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "55.9 (28.4–80.5)"},
+        {"Characteristic": "Female sex — no. (%)", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "329 (99.4)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "163 (100)", "Trastuzumab Deruxtecan (All Patients, N=373)": "371 (99.5)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "184 (100)"},
+        {"Characteristic": "Region — no. (%): Europe or Israel", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "149 (45.0)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "73 (44.8)", "Trastuzumab Deruxtecan (All Patients, N=373)": "166 (44.5)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "85 (46.2)"},
+        {"Characteristic": "Region — no. (%): Asia", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "128 (38.7)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "60 (36.8)", "Trastuzumab Deruxtecan (All Patients, N=373)": "147 (39.4)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "66 (35.9)"},
+        {"Characteristic": "Region — no. (%): North America", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "54 (16.3)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "30 (18.4)", "Trastuzumab Deruxtecan (All Patients, N=373)": "60 (16.1)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "33 (17.9)"},
+        {"Characteristic": "Race — no. (%):† White", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "156 (47.1)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "78 (47.9)", "Trastuzumab Deruxtecan (All Patients, N=373)": "176 (47.2)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "91 (49.5)"},
+        {"Characteristic": "Race — no. (%):† Black", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "7 (2.1)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "2 (1.2)", "Trastuzumab Deruxtecan (All Patients, N=373)": "7 (1.9)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "3 (1.6)"},
+        {"Characteristic": "Race — no. (%):† Asian", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "131 (39.6)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "66 (40.5)", "Trastuzumab Deruxtecan (All Patients, N=373)": "151 (40.5)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "72 (39.1)"},
+        {"Characteristic": "Race — no. (%):† Other", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "37 (11.2)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "16 (9.8)", "Trastuzumab Deruxtecan (All Patients, N=373)": "39 (10.5)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "17 (9.2)"},
+        {"Characteristic": "Race — no. (%):† Missing data", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "0", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "1 (0.6)", "Trastuzumab Deruxtecan (All Patients, N=373)": "0", "Physician's Choice of Chemotherapy (All Patients, N=184)": "1 (0.5)"},
+        {"Characteristic": "Ethnic group — no. (%):† Hispanic or Latino", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "14 (4.2)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "5 (3.1)", "Trastuzumab Deruxtecan (All Patients, N=373)": "14 (3.8)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "7 (3.8)"},
+        {"Characteristic": "Ethnic group — no. (%):† Non-Hispanic or Non-Latino", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "267 (80.7)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "137 (84.0)", "Trastuzumab Deruxtecan (All Patients, N=373)": "308 (82.6)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "153 (83.2)"},
+        {"Characteristic": "Ethnic group — no. (%):† Unknown", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "9 (2.7)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "4 (2.5)", "Trastuzumab Deruxtecan (All Patients, N=373)": "9 (2.4)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "7 (3.8)"},
+        {"Characteristic": "Ethnic group — no. (%):† Not applicable", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "41 (12.4)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "17 (10.4)", "Trastuzumab Deruxtecan (All Patients, N=373)": "42 (11.3)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "17 (9.2)"},
+        {"Characteristic": "HER2-low status — no. (%):‡ IHC 1+", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "193 (58.3)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "95 (58.3)", "Trastuzumab Deruxtecan (All Patients, N=373)": "215 (57.6)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "106 (57.6)"},
+        {"Characteristic": "HER2-low status — no. (%):‡ IHC 2+ and ISH-negative", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "138 (41.7)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "68 (41.7)", "Trastuzumab Deruxtecan (All Patients, N=373)": "158 (42.4)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "78 (42.4)"},
+        {"Characteristic": "ECOG performance-status score — no. (%):§ 0", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "187 (56.5)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "95 (58.3)", "Trastuzumab Deruxtecan (All Patients, N=373)": "200 (53.6)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "105 (57.1)"},
+        {"Characteristic": "ECOG performance-status score — no. (%):§ 1", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "144 (43.5)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "68 (41.7)", "Trastuzumab Deruxtecan (All Patients, N=373)": "173 (46.4)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "79 (42.9)"},
+        {"Characteristic": "Hormone receptor-positive — no. (%):¶", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "328 (99.1)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "162 (99.4)", "Trastuzumab Deruxtecan (All Patients, N=373)": "333 (89.3)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "166 (90.2)"},
+        {"Characteristic": "Metastasis — no. (%): Brain", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "18 (5.4)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "7 (4.3)", "Trastuzumab Deruxtecan (All Patients, N=373)": "24 (6.4)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "8 (4.3)"},
+        {"Characteristic": "Metastasis — no. (%): Liver", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "247 (74.6)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "116 (71.2)", "Trastuzumab Deruxtecan (All Patients, N=373)": "266 (71.3)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "123 (66.8)"},
+        {"Characteristic": "Metastasis — no. (%): Lung", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "98 (29.6)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "58 (35.6)", "Trastuzumab Deruxtecan (All Patients, N=373)": "120 (32.2)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "63 (34.2)"},
+        {"Characteristic": "Previous cancer therapy — no. (%): Targeted therapy", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "259 (78.2)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "132 (81.0)", "Trastuzumab Deruxtecan (All Patients, N=373)": "279 (74.8)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "140 (76.1)"},
+        {"Characteristic": "Previous cancer therapy — no. (%): Targeted therapy: CDK4/6 inhibitor", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "233 (70.4)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "115 (70.6)", "Trastuzumab Deruxtecan (All Patients, N=373)": "239 (64.1)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "119 (64.7)"},
+        {"Characteristic": "Previous cancer therapy — no. (%): Targeted therapy: Immunotherapy", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "10 (3.0)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "8 (4.9)", "Trastuzumab Deruxtecan (All Patients, N=373)": "20 (5.4)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "12 (6.5)"},
+        {"Characteristic": "Previous cancer therapy — no. (%): Targeted therapy: Other", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "128 (38.7)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "70 (42.9)", "Trastuzumab Deruxtecan (All Patients, N=373)": "140 (37.5)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "76 (41.3)"},
+        {"Characteristic": "Previous cancer therapy — no. (%): Endocrine therapy", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "330 (99.7)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "160 (98.2)", "Trastuzumab Deruxtecan (All Patients, N=373)": "347 (93.0)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "165 (89.7)"},
+        {"Characteristic": "Previous cancer therapy — no. (%): Chemotherapy", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "331 (100)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "162 (99.4)", "Trastuzumab Deruxtecan (All Patients, N=373)": "373 (100)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "183 (99.5)"},
+        {"Characteristic": "Lines of therapy for metastatic disease: Median no. of lines (range)", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "3 (1–9)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "3 (1–8)", "Trastuzumab Deruxtecan (All Patients, N=373)": "3 (1–9)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "3 (1–8)"},
+        {"Characteristic": "Lines of therapy for metastatic disease: No. of lines — no. of patients (%): 1", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "23 (6.9)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "14 (8.6)", "Trastuzumab Deruxtecan (All Patients, N=373)": "39 (10.5)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "19 (10.3)"},
+        {"Characteristic": "Lines of therapy for metastatic disease: No. of lines — no. of patients (%): 2", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "85 (25.7)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "41 (25.2)", "Trastuzumab Deruxtecan (All Patients, N=373)": "100 (26.8)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "53 (28.8)"},
+        {"Characteristic": "Lines of therapy for metastatic disease: No. of lines — no. of patients (%): ≥3", "Trastuzumab Deruxtecan (Hormone Receptor-Positive Cohort, N=331)": "223 (67.4)", "Physician's Choice of Chemotherapy (Hormone Receptor-Positive Cohort, N=163)": "108 (66.3)", "Trastuzumab Deruxtecan (All Patients, N=373)": "234 (62.7)", "Physician's Choice of Chemotherapy (All Patients, N=184)": "112 (60.9)"}
+      ],
+      "footnotes": [
+        "* Percentages may not total 100 because of rounding. CDK4/6 denotes cyclin-dependent kinases 4 and 6.",
+        "† Race and ethnic group were reported by the patients. For available options, see the Methods section in the Supplementary Appendix.",
+        "‡ Low expression of human epidermal growth factor receptor 2 (HER2) was defined as a score of 1+ on immunohistochemical (IHC) analysis or as an IHC score of 2+ and negative results on in situ hybridization (ISH).",
+        "§ Performance-status scores on the Eastern Cooperative Oncology Group (ECOG) scale range from 0 (no disability) to 5 (death).",
+        "¶ For the intention-to-treat analyses in the hormone receptor-positive cohort, hormone-receptor status is based on data collected with the use of the interactive Web-response and voice-response system at the time of randomization, which includes patients who were mis-stratified."
+      ]
+    },
+    {
+      "id": "Table 2",
+      "caption": "Overall Efficacy in All Cohorts.*",
+      "columns": [
+        "Variable",
+        "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan",
+        "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy",
+        "All Patients_Trastuzumab Deruxtecan",
+        "All Patients_Physician's Choice of Chemotherapy",
+        "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan",
+        "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy"
+      ],
+      "rows": [
+        {"Variable": "Progression-free and overall survival: No. of patients evaluated", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "331", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "163", "All Patients_Trastuzumab Deruxtecan": "373", "All Patients_Physician's Choice of Chemotherapy": "184", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "40", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "18"},
+        {"Variable": "Progression-free and overall survival: Median progression-free survival (95% CI) — mo", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "10.1 (9.5–11.5)", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "5.4 (4.4–7.1)", "All Patients_Trastuzumab Deruxtecan": "9.9 (9.0–11.3)", "All Patients_Physician's Choice of Chemotherapy": "5.1 (4.2–6.8)", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "8.5 (4.3–11.7)", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "2.9 (1.4–5.1)"},
+        {"Variable": "Progression-free and overall survival: Hazard ratio for disease progression or death (95% CI)", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "0.51 (0.40–0.64)", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": null, "All Patients_Trastuzumab Deruxtecan": "0.50 (0.40–0.63)", "All Patients_Physician's Choice of Chemotherapy": null, "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "0.46 (0.24–0.89)", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": null},
+        {"Variable": "Progression-free and overall survival: P value", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "<0.001", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": null, "All Patients_Trastuzumab Deruxtecan": "<0.001", "All Patients_Physician's Choice of Chemotherapy": null, "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": null, "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": null},
+        {"Variable": "Progression-free and overall survival: Median overall survival (95% CI) — mo", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "23.9 (20.8–24.8)", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "17.5 (15.2–22.4)", "All Patients_Trastuzumab Deruxtecan": "23.4 (20.0–24.8)", "All Patients_Physician's Choice of Chemotherapy": "16.8 (14.5–20.0)", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "18.2 (13.6–NE)", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "8.3 (5.6–20.6)"},
+        {"Variable": "Progression-free and overall survival: Hazard ratio for death (95% CI)", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "0.64 (0.48–0.86)", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": null, "All Patients_Trastuzumab Deruxtecan": "0.64 (0.49–0.84)", "All Patients_Physician's Choice of Chemotherapy": null, "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "0.48 (0.24–0.95)", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": null},
+        {"Variable": "Progression-free and overall survival: P value", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "0.003", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": null, "All Patients_Trastuzumab Deruxtecan": "0.001", "All Patients_Physician's Choice of Chemotherapy": null, "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": null, "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": null},
+        {"Variable": "Response to treatment: No. of patients evaluated", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "333", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "166", "All Patients_Trastuzumab Deruxtecan": "373", "All Patients_Physician's Choice of Chemotherapy": "184", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "40", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "18"},
+        {"Variable": "Response to treatment: Confirmed overall response: No. with response", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "175", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "27", "All Patients_Trastuzumab Deruxtecan": "195", "All Patients_Physician's Choice of Chemotherapy": "30", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "20", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "3"},
+        {"Variable": "Response to treatment: Confirmed overall response: Percent (95% CI)", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "52.6 (47.0–58.0)", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "16.3 (11.0–22.8)", "All Patients_Trastuzumab Deruxtecan": "52.3 (47.1–57.4)", "All Patients_Physician's Choice of Chemotherapy": "16.3 (11.3–22.5)", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "50.0 (33.8–66.2)", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "16.7 (3.6–41.4)"},
+        {"Variable": "Response to treatment: Best overall response — no. (%): Complete response", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "12 (3.6)", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "1 (0.6)", "All Patients_Trastuzumab Deruxtecan": "13 (3.5)", "All Patients_Physician's Choice of Chemotherapy": "2 (1.1)", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "1 (2.5)", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "1 (5.6)"},
+        {"Variable": "Response to treatment: Best overall response — no. (%): Partial response", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "164 (49.2)", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "26 (15.7)", "All Patients_Trastuzumab Deruxtecan": "183 (49.1)", "All Patients_Physician's Choice of Chemotherapy": "28 (15.2)", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "19 (47.5)", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "2 (11.1)"},
+        {"Variable": "Response to treatment: Best overall response — no. (%): Stable disease", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "117 (35.1)", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "83 (50.0)", "All Patients_Trastuzumab Deruxtecan": "129 (34.6)", "All Patients_Physician's Choice of Chemotherapy": "91 (49.5)", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "12 (30.0)", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "8 (44.4)"},
+        {"Variable": "Response to treatment: Best overall response — no. (%): Progressive disease", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "26 (7.8)", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "35 (21.1)", "All Patients_Trastuzumab Deruxtecan": "31 (8.3)", "All Patients_Physician's Choice of Chemotherapy": "41 (22.3)", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "5 (12.5)", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "6 (33.3)"},
+        {"Variable": "Response to treatment: Best overall response — no. (%): Not evaluable", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "14 (4.2)", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "21 (12.7)", "All Patients_Trastuzumab Deruxtecan": "17 (4.6)", "All Patients_Physician's Choice of Chemotherapy": "22 (12.0)", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "3 (7.5)", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "1 (5.6)"},
+        {"Variable": "Response to treatment: Disease control — no. (%)†", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "293 (88.0)", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "110 (66.3)", "All Patients_Trastuzumab Deruxtecan": "325 (87.1)", "All Patients_Physician's Choice of Chemotherapy": "121 (65.8)", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "32 (80.0)", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "11 (61.1)"},
+        {"Variable": "Response to treatment: Clinical benefit — no. (%)‡", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "237 (71.2)", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "57 (34.3)", "All Patients_Trastuzumab Deruxtecan": "262 (70.2)", "All Patients_Physician's Choice of Chemotherapy": "62 (33.7)", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "25 (62.5)", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "5 (27.8)"},
+        {"Variable": "Response to treatment: Median duration of response — mo", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "10.7", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "6.8", "All Patients_Trastuzumab Deruxtecan": "10.7", "All Patients_Physician's Choice of Chemotherapy": "6.8", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "8.6", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "4.9"},
+        {"Variable": "Response to treatment: Median time to response — mo", "Hormone Receptor-Positive Cohort_Trastuzumab Deruxtecan": "2.76", "Hormone Receptor-Positive Cohort_Physician's Choice of Chemotherapy": "2.73", "All Patients_Trastuzumab Deruxtecan": "2.73", "All Patients_Physician's Choice of Chemotherapy": "2.22", "Hormone Receptor-Negative Cohort_Trastuzumab Deruxtecan": "1.51", "Hormone Receptor-Negative Cohort_Physician's Choice of Chemotherapy": "1.41"}
+      ],
+      "footnotes": [
+        "* For the primary end point (progression-free survival in the hormone receptor-positive cohort) and key secondary end points (progression-free survival among all patients and overall survival in the hormone receptor-positive cohort and among all patients), the hormone-receptor status is based on data collected with the use of the interactive Web-response and voice-response system at the time of randomization, which includes patients who were mis-stratified. For the other end points, hormone-receptor status is based on data from the electronic data capture that was corrected for mis-stratification. NE denotes not evaluable.",
+        "† Disease control was a composite of complete response, partial response, and stable disease.",
+        "‡ Clinical benefit was a composite of complete response, partial response, and more than 6 months of stable disease, according to blinded independent central review."
+      ]
+    },
+    {
+      "id": "Table 3",
+      "caption": "Most Common Drug-Related Adverse Events (in ≥20% of Patients) in the Safety Analysis Set.*",
+      "columns": [
+        "Event",
+        "Trastuzumab Deruxtecan (N=371)_All Grades",
+        "Trastuzumab Deruxtecan (N=371)_Grade ≥3",
+        "Physician's Choice of Chemotherapy (N=172)_All Grades",
+        "Physician's Choice of Chemotherapy (N=172)_Grade ≥3"
+      ],
+      "rows": [
+        {"Event": "Blood and lymphatic system disorders: Neutropenia†", "Trastuzumab Deruxtecan (N=371)_All Grades": "123 (33.2)", "Trastuzumab Deruxtecan (N=371)_Grade ≥3": "51 (13.7)", "Physician's Choice of Chemotherapy (N=172)_All Grades": "88 (51.2)", "Physician's Choice of Chemotherapy (N=172)_Grade ≥3": "70 (40.7)"},
+        {"Event": "Blood and lymphatic system disorders: Anemia‡", "Trastuzumab Deruxtecan (N=371)_All Grades": "123 (33.2)", "Trastuzumab Deruxtecan (N=371)_Grade ≥3": "30 (8.1)", "Physician's Choice of Chemotherapy (N=172)_All Grades": "39 (22.7)", "Physician's Choice of Chemotherapy (N=172)_Grade ≥3": "8 (4.7)"},
+        {"Event": "Blood and lymphatic system disorders: Thrombocytopenia§", "Trastuzumab Deruxtecan (N=371)_All Grades": "88 (23.7)", "Trastuzumab Deruxtecan (N=371)_Grade ≥3": "19 (5.1)", "Physician's Choice of Chemotherapy (N=172)_All Grades": "16 (9.3)", "Physician's Choice of Chemotherapy (N=172)_Grade ≥3": "1 (0.6)"},
+        {"Event": "Blood and lymphatic system disorders: Leukopenia¶", "Trastuzumab Deruxtecan (N=371)_All Grades": "86 (23.2)", "Trastuzumab Deruxtecan (N=371)_Grade ≥3": "24 (6.5)", "Physician's Choice of Chemotherapy (N=172)_All Grades": "54 (31.4)", "Physician's Choice of Chemotherapy (N=172)_Grade ≥3": "33 (19.2)"},
+        {"Event": "Gastrointestinal disorders: Nausea", "Trastuzumab Deruxtecan (N=371)_All Grades": "271 (73.0)", "Trastuzumab Deruxtecan (N=371)_Grade ≥3": "17 (4.6)", "Physician's Choice of Chemotherapy (N=172)_All Grades": "41 (23.8)", "Physician's Choice of Chemotherapy (N=172)_Grade ≥3": "0"},
+        {"Event": "Gastrointestinal disorders: Vomiting", "Trastuzumab Deruxtecan (N=371)_All Grades": "126 (34.0)", "Trastuzumab Deruxtecan (N=371)_Grade ≥3": "5 (1.3)", "Physician's Choice of Chemotherapy (N=172)_All Grades": "17 (9.9)", "Physician's Choice of Chemotherapy (N=172)_Grade ≥3": "0"},
+        {"Event": "Gastrointestinal disorders: Diarrhea", "Trastuzumab Deruxtecan (N=371)_All Grades": "83 (22.4)", "Trastuzumab Deruxtecan (N=371)_Grade ≥3": "4 (1.1)", "Physician's Choice of Chemotherapy (N=172)_All Grades": "31 (18.0)", "Physician's Choice of Chemotherapy (N=172)_Grade ≥3": "3 (1.7)"},
+        {"Event": "Gastrointestinal disorders: Constipation", "Trastuzumab Deruxtecan (N=371)_All Grades": "79 (21.3)", "Trastuzumab Deruxtecan (N=371)_Grade ≥3": "0", "Physician's Choice of Chemotherapy (N=172)_All Grades": "22 (12.8)", "Physician's Choice of Chemotherapy (N=172)_Grade ≥3": "0"},
+        {"Event": "Investigations: increased aminotransferase levels‖", "Trastuzumab Deruxtecan (N=371)_All Grades": "87 (23.5)", "Trastuzumab Deruxtecan (N=371)_Grade ≥3": "12 (3.2)", "Physician's Choice of Chemotherapy (N=172)_All Grades": "39 (22.7)", "Physician's Choice of Chemotherapy (N=172)_Grade ≥3": "14 (8.1)"},
+        {"Event": "General disorders: fatigue**", "Trastuzumab Deruxtecan (N=371)_All Grades": "177 (47.7)", "Trastuzumab Deruxtecan (N=371)_Grade ≥3": "28 (7.5)", "Physician's Choice of Chemotherapy (N=172)_All Grades": "73 (42.4)", "Physician's Choice of Chemotherapy (N=172)_Grade ≥3": "8 (4.7)"},
+        {"Event": "Metabolism and nutrition disorders: decreased appetite", "Trastuzumab Deruxtecan (N=371)_All Grades": "106 (28.6)", "Trastuzumab Deruxtecan (N=371)_Grade ≥3": "9 (2.4)", "Physician's Choice of Chemotherapy (N=172)_All Grades": "28 (16.3)", "Physician's Choice of Chemotherapy (N=172)_Grade ≥3": "2 (1.2)"},
+        {"Event": "Skin and subcutaneous tissue disorders: alopecia", "Trastuzumab Deruxtecan (N=371)_All Grades": "140 (37.7)", "Trastuzumab Deruxtecan (N=371)_Grade ≥3": "0", "Physician's Choice of Chemotherapy (N=172)_All Grades": "56 (32.6)", "Physician's Choice of Chemotherapy (N=172)_Grade ≥3": "0"}
+      ],
+      "footnotes": [
+        "* Shown are adverse events that emerged or worsened after initiation of a trial drug until 47 days after the last dose of the trial drug and that were adjudicated as being related to a trial drug by an independent committee.",
+        "† This category includes the preferred terms neutrophil count decreased and neutropenia.",
+        "‡ This category includes the preferred terms hemoglobin decreased, red-cell count decreased, anemia, and hematocrit decreased.",
+        "§ This category includes the preferred terms platelet count decreased and thrombocytopenia.",
+        "¶ This category includes the preferred terms white-cell count decreased and leukopenia.",
+        "‖ This category includes the preferred terms aminotransferase levels increased, aspartate aminotransferase increased, alanine aminotransferase increased, γ-glutamyltransferase increased, liver function test abnormal, and hepatic function abnormal.",
+        "** This category includes the preferred terms fatigue, asthenia, and malaise."
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "Figure 1",
+      "caption_general": "Kaplan-Meier Analysis of Progression-free Survival and Overall Survival in the Hormone Receptor-Positive Cohort and among All Patients. Progression-free survival was assessed by means of blinded independent central review. The tick marks indicate censored data.",
+      "panels": [
+        {
+          "panel_id": "A",
+          "title": "Progression-free Survival in Hormone Receptor-Positive Cohort",
+          "groups": [
+            {
+              "name": "Trastuzumab Deruxtecan",
+              "n_patients": 331,
+              "median_survival_months": "10.1 (9.5–11.5)",
+              "no_at_risk": [331, 324, 290, 265, 262, 248, 218, 198, 182, 165, 142, 128, 107, 89, 78, 73, 64, 48, 37, 31, 28, 17, 14, 12, 7, 4, 4, 1, 1, 0]
+            },
+            {
+              "name": "Physician's Choice",
+              "n_patients": 163,
+              "median_survival_months": "5.4 (4.4–7.1)",
+              "no_at_risk": [163, 146, 105, 85, 84, 69, 57, 48, 43, 32, 30, 27, 24, 20, 14, 12, 8, 4, 3, 2, 1, 1, 1, 1, 1, 1, 0]
+            }
+          ],
+          "hazard_ratio_progression_death": "0.51 (95% CI, 0.40–0.64)",
+          "p_value": "<0.001",
+          "x_axis_label": "Months",
+          "y_axis_label": "Probability of Progression-free Survival",
+          "time_points_months_no_at_risk": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+        },
+        {
+          "panel_id": "B",
+          "title": "Progression-free Survival among All Patients",
+          "groups": [
+            {
+              "name": "Trastuzumab Deruxtecan",
+              "n_patients": 373,
+              "median_survival_months": "9.9 (9.0–11.3)",
+              "no_at_risk": [373, 365, 325, 295, 290, 272, 238, 217, 201, 183, 156, 142, 118, 100, 88, 81, 71, 53, 42, 35, 32, 21, 18, 15, 8, 4, 4, 1, 1, 0]
+            },
+            {
+              "name": "Physician's Choice",
+              "n_patients": 184,
+              "median_survival_months": "5.1 (4.2–6.8)",
+              "no_at_risk": [184, 166, 119, 93, 90, 73, 60, 51, 45, 34, 32, 29, 26, 22, 15, 13, 9, 5, 4, 3, 1, 1, 1, 1, 1, 1, 0]
+            }
+          ],
+          "hazard_ratio_progression_death": "0.50 (95% CI, 0.40–0.63)",
+          "p_value": "<0.001",
+          "x_axis_label": "Months",
+          "y_axis_label": "Probability of Progression-free Survival",
+          "time_points_months_no_at_risk": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+        },
+        {
+          "panel_id": "C",
+          "title": "Overall Survival in Hormone Receptor-Positive Cohort",
+          "groups": [
+            {
+              "name": "Trastuzumab Deruxtecan",
+              "n_patients": 331,
+              "median_survival_months": "23.9 (20.8–24.8)",
+              "no_at_risk": [331, 325, 323, 319, 314, 309, 303, 293, 285, 280, 268, 260, 250, 228, 199, 190, 168, 144, 116, 95, 81, 70, 51, 40, 26, 14, 9, 8, 6, 6, 2, 1, 1, 1, 0]
+            },
+            {
+              "name": "Physician's Choice",
+              "n_patients": 163,
+              "median_survival_months": "17.5 (15.2–22.4)",
+              "no_at_risk": [163, 151, 145, 143, 139, 135, 130, 124, 115, 109, 104, 98, 96, 89, 80, 71, 56, 45, 37, 29, 25, 23, 16, 14, 7, 5, 3, 1, 0]
+            }
+          ],
+          "hazard_ratio_death": "0.64 (95% CI, 0.48–0.86)",
+          "p_value": "P=0.003",
+          "x_axis_label": "Months",
+          "y_axis_label": "Probability of Overall Survival",
+          "time_points_months_no_at_risk": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]
+        },
+        {
+          "panel_id": "D",
+          "title": "Overall Survival among All Patients",
+          "groups": [
+            {
+              "name": "Trastuzumab Deruxtecan",
+              "n_patients": 373,
+              "median_survival_months": "23.4 (20.0–24.8)",
+              "no_at_risk": [373, 366, 363, 357, 351, 344, 338, 326, 315, 309, 296, 287, 276, 254, 223, 214, 188, 158, 129, 104, 90, 78, 59, 48, 32, 20, 14, 12, 10, 8, 3, 1, 1, 1, 0]
+            },
+            {
+              "name": "Physician's Choice",
+              "n_patients": 184,
+              "median_survival_months": "16.8 (14.5–20.0)",
+              "no_at_risk": [184, 171, 165, 161, 157, 153, 146, 138, 128, 120, 114, 108, 105, 97, 88, 77, 61, 50, 42, 32, 28, 25, 18, 16, 7, 5, 3, 1, 0]
+            }
+          ],
+          "hazard_ratio_death": "0.64 (95% CI, 0.49–0.84)",
+          "p_value": "P=0.001",
+          "x_axis_label": "Months",
+          "y_axis_label": "Probability of Overall Survival",
+          "time_points_months_no_at_risk": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]
+        }
+      ]
+    }
+  ],
+  "appendix": {
+    "authors_full_list_and_affiliations": [
+      {"author": "Shanu Modi, M.D.", "affiliation": "the Memorial Sloan Kettering Cancer Center, New York"},
+      {"author": "William Jacot, M.D., Ph.D.", "affiliation": "Institut du Cancer de Montpellier, Université Montpellier, INSERM Unité 1194, Montpellier, France"},
+      {"author": "Toshinari Yamashita, M.D., Ph.D.", "affiliation": "Kanagawa Cancer Center, Yokohama, Japan"},
+      {"author": "Joohyuk Sohn, M.D.", "affiliation": "Yonsei Cancer Center, Yonsei University Health System, Seoul, South Korea"},
+      {"author": "Maria Vidal, M.D., Ph.D.", "affiliation": "the Department of Medical Oncology, Hospital Clínic de Barcelona, Barcelona, Spain"},
+      {"author": "Eriko Tokunaga, M.D., Ph.D.", "affiliation": "Kyushu Cancer Center, National Hospital Organization, Fukuoka, Japan"},
+      {"author": "Junji Tsurutani, M.D., Ph.D.", "affiliation": "Showa University Hospital, Tokyo, Japan"},
+      {"author": "Naoto T. Ueno, M.D., Ph.D.", "affiliation": "the University of Texas M.D. Anderson Cancer Center, Houston"},
+      {"author": "Aleix Prat, M.D., Ph.D.", "affiliation": "the Department of Medical Oncology, Hospital Clínic de Barcelona; Translational Genomics and Targeted Therapies in Solid Tumors, Institut d'Investigacions Biomèdiques August Pi i Sunyer; the Department of Medicine, University of Barcelona; the Breast Cancer Unit, Institute of Oncology (IOB)-Quirón Salud, Barcelona, Spain"},
+      {"author": "Yee Soo Chae, M.D., Ph.D.", "affiliation": "Kyungpook National University Chilgok Hospital, Daegu, South Korea"},
+      {"author": "Keun Seok Lee, M.D., Ph.D.", "affiliation": "the National Cancer Center, Goyang-si, South Korea"},
+      {"author": "Naoki Niikura, M.D., Ph.D.", "affiliation": "Tokai University School of Medicine, Isehara-shi, Japan"},
+      {"author": "Yeon Hee Park, M.D., Ph.D.", "affiliation": "Samsung Medical Center, Seoul, South Korea"},
+      {"author": "Binghe Xu, M.D., Ph.D.", "affiliation": "Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China"},
+      {"author": "Xiaojia Wang, M.D., Ph.D.", "affiliation": "Zhejiang Cancer Hospital, Hangzhou, China"},
+      {"author": "Miguel Gil-Gil, M.D., Ph.D.", "affiliation": "Institut Catala d'Oncologia l'Hospitalet-Hospital Duran i Reynals, Barcelona, Spain"},
+      {"author": "Wei Li, M.D., Ph.D.", "affiliation": "the First Hospital of Jilin University, Changchun, China"},
+      {"author": "Jean-Yves Pierga, M.D., Ph.D.", "affiliation": "Institut Curie, Université Paris Cité, Paris, France"},
+      {"author": "Seock-Ah Im, M.D., Ph.D.", "affiliation": "Seoul National University Hospital, Cancer Research Institute, Seoul National University College of Medicine, Seoul National University, Seoul, South Korea"},
+      {"author": "Halle C.F. Moore, M.D.", "affiliation": "the Cleveland Clinic Foundation, Cleveland"},
+      {"author": "Hope S. Rugo, M.D.", "affiliation": "the University of California, San Francisco, Helen Diller Family Comprehensive Cancer Center, San Francisco"},
+      {"author": "Rinat Yerushalmi, M.D.", "affiliation": "Rabin Medical Center, Petah Tikva, Tel Aviv University, Tel Aviv, Israel"},
+      {"author": "Flora Zagouri, M.D., Ph.D.", "affiliation": "Alexandra Regional General Hospital, Athens, Greece"},
+      {"author": "Andrea Gombos, M.D.", "affiliation": "Institut Jules Bordet, Brussels, Belgium"},
+      {"author": "Sung-Bae Kim, M.D., Ph.D.", "affiliation": "Asan Medical Center, University of Ulsan College of Medicine, Seoul, South Korea"},
+      {"author": "Qiang Liu, M.D., Ph.D.", "affiliation": "Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China"},
+      {"author": "Ting Luo, M.D.", "affiliation": "West China Hospital, Sichuan University, Chengdu, China"},
+      {"author": "Cristina Saura, M.D., Ph.D.", "affiliation": "Vall d'Hebron University Hospital, Vall d'Hebron Institute of Oncology, Barcelona, Spain"},
+      {"author": "Peter Schmid, M.D., Ph.D.", "affiliation": "Queen Mary University of London, London, United Kingdom"},
+      {"author": "Tao Sun, M.D.", "affiliation": "Liaoning Cancer Hospital and Institute, Shenyang, China"},
+      {"author": "Dhiraj Gambhire, M.D., M.P.H.", "affiliation": "Daiichi Sankyo, Basking Ridge, NJ"},
+      {"author": "Lotus Yung, Pharm.D.", "affiliation": "Daiichi Sankyo, Basking Ridge, NJ"},
+      {"author": "Yibin Wang, Ph.D.", "affiliation": "Daiichi Sankyo, Basking Ridge, NJ"},
+      {"author": "Jasmeet Singh, M.D., M.P.H.A.", "affiliation": "Daiichi Sankyo, Basking Ridge, NJ"},
+      {"author": "Patrik Vitazka, M.D., Ph.D.", "affiliation": "Daiichi Sankyo, Basking Ridge, NJ"},
+      {"author": "Gerold Meinhardt, M.D.", "affiliation": "Daiichi Sankyo, Basking Ridge, NJ"},
+      {"author": "Nadia Harbeck, M.D., Ph.D.", "affiliation": "the Breast Center, Department of Obstetrics and Gynecology, and Comprehensive Cancer Center Munich, Ludwig Maximilian University Hospital, Munich, Germany"},
+      {"author": "David A. Cameron, M.D.", "affiliation": "Edinburgh Cancer Centre, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, United Kingdom"}
+    ],
+    "principal_investigators_note": "*A list of the principal investigators in the DESTINY-Breast04 trial is provided in the Supplementary Appendix, available at NEJM.org."
+  },
+  "references": [
+    "1. Schettini F, Chic N, Brasó-Maristany F, et al. Clinical, pathological, and PAM50 gene expression features of HER2-low breast cancer. NPJ Breast Cancer 2021;7:1.",
+    "2. Tarantino P, Hamilton E, Tolaney SM, et al. HER2-low breast cancer: pathological and clinical landscape. J Clin Oncol 2020;38:1951-62.",
+    "3. Fehrenbacher L, Cecchini RS, Geyer CE Jr, et al. NSABP B-47/NRG oncology phase III randomized trial comparing adjuvant chemotherapy with or without trastuzumab in high-risk invasive breast cancer negative for HER2 by FISH and with IHC 1+ or 2. J Clin Oncol 2020;38:444-53.",
+    "4. Burris HA III, Rugo HS, Vukelja SJ, et al. Phase II study of the antibody drug conjugate trastuzumab-DM1 for the treatment of human epidermal growth factor receptor 2 (HER2)-positive breast cancer after prior HER2-directed therapy. J Clin Oncol 2011;29:398-405.",
+    "5. Harbeck N, Penault-Llorca F, Cortes J, et al. Breast cancer. Nat Rev Dis Primers 2019;5:66.",
+    "6. National Comprehensive Cancer Network. NCCN clinical practice guidelines in oncology: breast cancer. Version 2.2022. 2021 (https://www.nccn.org/professionals/physician_gls/pdf/breast.pdf).",
+    "7. Finn RS, Crown JP, Lang I, et al. The cyclin-dependent kinase 4/6 inhibitor palbociclib in combination with letrozole versus letrozole alone as first-line treatment of oestrogen receptor-positive, HER2-negative, advanced breast cancer (PALOMA-1/TRIO-18): a randomised phase 2 study. Lancet Oncol 2015;16:25-35.",
+    "8. Finn RS, Martin M, Rugo HS, et al. Palbociclib and letrozole in advanced breast cancer. N Engl J Med 2016;375:1925-36.",
+    "9. Hortobagyi GN, Stemmer SM, Burris HA, et al. Ribociclib as first-line therapy for HR-positive, advanced breast cancer. N Engl J Med 2016;375:1738-48.",
+    "10. Tripathy D, Im S-A, Colleoni M, et al. Ribociclib plus endocrine therapy for premenopausal women with hormone-receptor-positive, advanced breast cancer (MONALEESA-7): a randomised phase 3 trial. Lancet Oncol 2018;19:904-15.",
+    "11. Mo H, Renna CE, Moore HCF, et al. Real-world outcomes of everolimus and exemestane for the treatment of metastatic hormone receptor-positive breast cancer in patients previously treated with CDK4/6 inhibitors. Clin Breast Cancer 2022;22:143-8.",
+    "12. Bardia A, Hurvitz SA, Tolaney SM, et al. Sacituzumab govitecan in metastatic triple-negative breast cancer. N Engl J Med 2021;384:1529-41.",
+    "13. Cortes J, O'Shaughnessy J, Loesch D, et al. Eribulin monotherapy versus treatment of physician's choice in patients with metastatic breast cancer (EMBRACE): a phase 3 open-label randomised study. Lancet 2011;377:914-23.",
+    "14. Kaufman PA, Awada A, Twelves C, et al. Phase III open-label randomized study of eribulin mesylate versus capecitabine in patients with locally advanced or metastatic breast cancer previously treated with an anthracycline and a taxane. J Clin Oncol 2015;33:594-601.",
+    "15. Nakada T, Sugihara K, Jikoh T, Abe Y, Agatsuma T. The latest research and development into the antibody-drug conjugate, [fam-] trastuzumab deruxtecan (DS-8201a), for HER2 cancer therapy. Chem Pharm Bull (Tokyo) 2019;67:173-85.",
+    "16. Ogitani Y, Aida T, Hagihara K, et al. DS-8201a, a novel HER2-targeting ADC with a novel DNA topoisomerase I inhibitor, demonstrates a promising antitumor efficacy with differentiation from T-DM1. Clin Cancer Res 2016;22:5097-108.",
+    "17. Ogitani Y, Hagihara K, Oitate M, Naito H, Agatsuma T. Bystander killing effect of DS-8201a, a novel anti-human epidermal growth factor receptor 2 antibody-drug conjugate, in tumors with human epidermal growth factor receptor 2 heterogeneity. Cancer Sci 2016;107:1039-46.",
+    "18. Modi S, Park H, Murthy RK, et al. Antitumor activity and safety of trastuzumab deruxtecan in patients with HER2-low-expressing advanced breast cancer: results from a phase Ib study. J Clin Oncol 2020;38:1887-96.",
+    "19. Diéras V, Deluche E, Lusque A, et al. Trastuzumab deruxtecan (T-DXd) for advanced breast cancer patients (ABC), regardless HER2 status: a phase II study with biomarkers analysis (DAISY). Cancer Res 2022;82:PD8-02. abstract.",
+    "20. Hamilton E, Shapiro CL, Petrylak D, et al. Trastuzumab deruxtecan (T-DXd; DS-8201) with nivolumab in patients with HER2-expressing, advanced breast cancer: a 2-part, phase 1b, multicenter, open-label study. Cancer Res 2021;81:PD3-07. abstract.",
+    "21. Aogi K, Iwata H, Masuda N, et al. A phase II study of eribulin in Japanese patients with heavily pretreated metastatic breast cancer. Ann Oncol 2012;23:1441-8.",
+    "22. Wolff AC, Hammond MEH, Allison KH, et al. Human epidermal growth factor receptor 2 testing in breast cancer: American Society of Clinical Oncology/College of American Pathologists clinical practice guideline focused update. J Clin Oncol 2018;36:2105-22.",
+    "23. Modi S, Saura C, Yamashita T, et al. Trastuzumab deruxtecan in previously treated HER2-positive breast cancer. N Engl J Med 2020;382:610-21.",
+    "24. Cortés J, Kim S-B, Chung W-P, et al. Trastuzumab deruxtecan versus trastuzumab emtansine for breast cancer. N Engl J Med 2022;386:1143-54.",
+    "25. Powell CA, Modi S, Iwata H, et al. Pooled analysis of drug-related interstitial lung disease (ILD) in 8 single-arm trastuzumab deruxtecan (T-DXd) studies. Cancer Res 2021;81:CT167. abstract.",
+    "26. Fernandez AI, Liu M, Bellizzi A, et al. Examination of low ERBB2 protein expression in breast cancer tissue. JAMA Oncol 2022;8:1-4."
+  ]
+}

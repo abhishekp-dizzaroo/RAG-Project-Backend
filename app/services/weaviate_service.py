@@ -65,8 +65,8 @@ class WeaviateService:
         try:
             client = weaviate_client.get_client()
             collection = client.collections.get(gen_request.collection_name)
-            
-            response = collection.generate.near_text(
+
+            response = collection.generate.hybrid(
                 query=gen_request.query,
                 limit=gen_request.limit,
                 grouped_task=gen_request.task
