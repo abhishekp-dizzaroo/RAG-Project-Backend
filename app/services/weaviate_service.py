@@ -2,6 +2,7 @@ import json
 from typing import List, Dict, Any
 from db.weaviate_client import weaviate_client
 from models.schema import SearchRequest, SearchResponse, GenerativeRequest, GenerativeResponse
+from app.config import settings
 
 class WeaviateService:
     
@@ -28,11 +29,11 @@ class WeaviateService:
         """Perform semantic search in Weaviate"""
         try:
             client = weaviate_client.get_client()
-            collection = client.collections.get(search_request.collection_name)
+            collection = client.collections.get(settings.COLLECTION_NAME)
             
             response = collection.query.near_text(
                 query=search_request.query,
-                limit=search_request.limit
+                limit=int(settings.LIMIT),
             )
             
             results = []
@@ -64,12 +65,13 @@ class WeaviateService:
         """Perform generative AI search in Weaviate"""
         try:
             client = weaviate_client.get_client()
-            collection = client.collections.get(gen_request.collection_name)
+            collection = client.collections.get(settings.COLLECTION_NAME)
 
             response = collection.generate.hybrid(
                 query=gen_request.query,
-                limit=gen_request.limit,
-                grouped_task=gen_request.task
+                limit=int(settings.LIMIT),
+                grouped_task="Answer the question precisely using only information from the provided context. Include specific details, facts, and figures when available. Focus on the most relevant information that directly addresses the query."
+
             )
             
             # Extract source results

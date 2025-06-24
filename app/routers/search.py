@@ -44,26 +44,3 @@ async def generative_search(gen_request: GenerativeRequest):
     
     return result
 
-@router.get("/collections")
-async def list_collections():
-    """List all available collections in Weaviate"""
-    try:
-        from db.weaviate_client import weaviate_client
-        client = weaviate_client.get_client()
-        
-        # Get all collections
-        collections = []
-        for collection_name in client.collections.list_all():
-            collections.append({
-                "name": collection_name,
-                "exists": client.collections.exists(collection_name)
-            })
-        
-        return {
-            "success": True,
-            "collections": collections,
-            "count": len(collections)
-        }
-        
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error listing collections: {str(e)}")
