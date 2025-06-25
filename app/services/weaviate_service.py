@@ -3,6 +3,8 @@ from typing import List, Dict, Any
 from db.weaviate_client import weaviate_client
 from models.schema import SearchRequest, SearchResponse, GenerativeRequest, GenerativeResponse
 from app.config import settings
+from weaviate.classes.generate import GenerativeConfig
+from weaviate.classes.query import MetadataQuery
 
 class WeaviateService:
     
@@ -70,10 +72,11 @@ class WeaviateService:
             response = collection.generate.hybrid(
                 query=gen_request.query,
                 limit=int(settings.LIMIT),
-                grouped_task="Answer the question precisely using only information from the provided context. Include specific details, facts, and figures when available. Focus on the most relevant information that directly addresses the query."
-
+                grouped_task="Answer the question precisely using only information from the provided context. Include specific details, facts, and figures when available. Focus on the most relevant information that directly addresses the query.",
+                generative_provider=GenerativeConfig.openai(temperature=0.1)
             )
             
+
             # Extract source results
             source_results = []
             for obj in response.objects:
