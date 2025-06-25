@@ -6,7 +6,8 @@ import sys
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from db.weaviate_client import weaviate_client
-from routers import search
+from db.neo4j_client import neo4j_client
+from routers import search, neo4j
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -15,8 +16,10 @@ async def lifespan(app: FastAPI):
     try:
         weaviate_client.connect()
         print("Connected to Weaviate successfully")
+        neo4j_client.connect()
+        print("Connected to Neo4j successfully")
     except Exception as e:
-        print(f"Failed to connect to Weaviate: {e}")
+        print(f"Failed to connect to databases: {e}")
     
     yield
     
@@ -24,10 +27,12 @@ async def lifespan(app: FastAPI):
     print("Shutting down FastAPI application...")
     weaviate_client.disconnect()
     print("Disconnected from Weaviate")
+    neo4j_client.disconnect()
+    print("Disconnected from Neo4j")
 
 app = FastAPI(
-    title="Weaviate RAG API",
-    description="FastAPI application with Weaviate integration for RAG operations",
+    title="RAG API",
+    description="FastAPI application with Weaviate and Neo4j integration for RAG operations",
     version="1.0.0",
     lifespan=lifespan
 )
@@ -43,13 +48,17 @@ app.add_middleware(
 
 # Include routers
 app.include_router(search.router, prefix="/api/search", tags=["Search"])
+app.include_router(neo4j.router, prefix="/api/neo4j", tags=["Neo4j"])
 
 @app.get("/")
 def read_root():
     return {
-        "message": "Weaviate RAG API is running!",
+        "message": "RAG API is running!",
         "docs": "/docs",
-        "health": "/api/search/health"
+        "health": {
+            "weaviate": "/api/search/health",
+            "neo4j": "/api/neo4j/health"
+        }
     }
 
 # if __name__ == "__main__":
