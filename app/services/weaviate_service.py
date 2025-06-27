@@ -72,19 +72,30 @@ class WeaviateService:
             response = collection.generate.hybrid(
                 query=gen_request.query,
                 limit=int(settings.LIMIT),
-                grouped_task="Answer the question precisely using only information from the provided context. Include specific details, facts, and figures when available. Focus on the most relevant information that directly addresses the query.",
-                generative_provider=GenerativeConfig.openai(temperature=0.1)
+                grouped_task="""
+                    Provide a direct, factual answer using only information from the provided context.
+                    Do not repeat the question.
+                    Do not use prefixes like 'Answer:' or 'According to the documents'.
+                    Focus on the most relevant information that directly addresses the query.
+                    If the query is not answerable with the provided context, respond with 'I don't know'.""",
+                # grouped_task="Answer the question precisely using only information from the provided context. Focus on the most relevant information that directly addresses the query.",
+                generative_provider=GenerativeConfig.openai(model="gpt-4.1", temperature=0.0),
+                alpha=0.5
             )
-            
 
+            
             # Extract source results
             source_results = []
             for obj in response.objects:
+                print(f"Retrieved doc: {obj.properties}")
+                
                 result = {
                     "id": str(obj.uuid),
                     "properties": obj.properties
                 }
                 source_results.append(result)
+            
+                
             
             return GenerativeResponse(
                 success=True,

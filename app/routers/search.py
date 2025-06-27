@@ -38,7 +38,8 @@ async def generative_search(gen_request: GenerativeRequest):
         raise HTTPException(status_code=400, detail="Query cannot be empty")
     
     result = WeaviateService.generative_search(gen_request)
-    print(f"Generative search result: {result}")
+    print("*"*200)
+    print(f"Generated response: {result}")
     if not result.success:
         raise HTTPException(status_code=500, detail=result.message)
     
